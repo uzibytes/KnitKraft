@@ -72,9 +72,11 @@ We have implemented these features:
 ⭐️ <b>KnitKraft :</b> [Use Mobile Phone for best viewing this Website](https://knitkraft.onrender.com/)
 
   Some Demo Logins to Test without registering: 
-  1. Farmer - Email: farmer@admin.com  Password: 1234@
-  2. Teacher - Email: teacher@admin.com  Password: 1234@
-  3. Transport - Email: transport@admin.com  Password: 1234@
+  1. Farmer - Email: farmer@admin.com  Password: 1234a
+  2. Teacher - Email: teacher@admin.com  Password: 1234a
+  3. Transport - Email: transport@admin.com  Password: 1234a
+
+[<img src="screenshots/download.gif" width="50%"/>](https://knitkraft.onrender.com/)
 
 ⭐️ <b>Main PPT :</b> [Click Here to View](https://www.canva.com/design/DAGP_9EsdGI/WQJE7HY9nDG7qmt9gBuDuA/edit)
 
@@ -104,13 +106,15 @@ We have implemented these features:
 
 ## Project Created & Maintained By
 
-## :heart: Team Vision
+## :heart: Team Vizion
 1. [Krishna Raj](https://github.com/krishna-raz)
 2. [Ujjwal Raj](https://github.com/uzibytes)
 3. [Rajnish Puri](https://github.com/RajnishPuri)
 4. [Prashant Kumar](https://github.com/PkThunderBolt)
 5. [Himanshu Kumar](https://github.com/I-Himanshu)
 6. [Anamika](https://github.com/Anamika282004)
+
+<b>Team Mentor</b> : [Aman Raj](https://github.com/AshAman999)
 
 ### Hire Us
 <a href="https://www.linkedin.com/in/iamkrishnaraj/"> <img src="https://img.shields.io/badge/krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
